@@ -1,0 +1,19 @@
+# Ambiente virtual
+venv/
+
+# Cache
+__pycache__/
+
+# Arquivos de compilação
+*.pyc
+
+# Logs
+*.logs
+
+# Configs locais
+*.ini
+
+# Pacotes baixados
+*.zip
+*.tar.gz
+
